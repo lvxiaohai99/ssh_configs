@@ -1,0 +1,13 @@
+{
+  "hideVaultEntryNames" : false,
+  "dontAutomaticallyStartVmSshServer" : false,
+  "dontAcceptNewHostKeys" : false,
+  "backgroundSessionInactivityTimeout" : null,
+  "iconSources" : [ ],
+  "disableTerminalRemotePasswordPreparation" : false,
+  "alwaysConfirmElevation" : false,
+  "dontCachePasswords" : false,
+  "encryptAllVaultData" : false,
+  "apiKey" : "4f2889d5-d327-4ad5-9b8b-c344effe7e39",
+  "workspaceLock" : null
+}
